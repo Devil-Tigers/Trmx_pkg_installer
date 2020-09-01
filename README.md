@@ -7,12 +7,25 @@ First you want to install git
 To install 
 pkg install git -y
 Then download the tool using git 
-git clone <link>
+git clone https://github.com/tigerhackmalayalam/termux-pkg.git
+
+Commands:-
+$ apt update
+$ apt upgrade
+$ pkg install git 
+$ git clone https://github.com/tigerhackmalayalam/termux-pkg.git
+$ cd termux-pkg
+$ bash termux-pkg.sh
 
 
 
-To run the file termux-pkg.sh
-Type :- bash termux-pkg.sh
+After typing this commands the all basic packages will be installed
+
+
+
+
+
+
 
 In this tool I included all the basic packages for termux
 Packages. :- 
@@ -33,3 +46,5 @@ Packages. :-
 *bash
    etc.....
 By TIGER HACK MALAYALAM
+
+******for educational purposes only******

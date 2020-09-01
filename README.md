@@ -11,11 +11,23 @@ git clone https://github.com/tigerhackmalayalam/termux-pkg.git
 
 Commands:-
 $ apt update
+
+
 $ apt upgrade
+
+
 $ pkg install git 
+
+
 $ git clone https://github.com/tigerhackmalayalam/termux-pkg.git
+
+
 $ cd termux-pkg
+
+
 $ bash termux-pkg.sh
+
+
 
 
 

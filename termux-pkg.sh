@@ -167,7 +167,7 @@ termux-setup-storage
 echo "YOU ARE ALL DONE "
 echo " "
 clear
-toilet -f mono12-F border "TIGER"
+toilet -f mono12 -F border "TIGER"
 echo "FOR MORE DETAILS"| lolcat
 echo "SUBSCRIBE MY CHANNEL"| lolcat
 echo " CLICK  https://www.youtube.com/c/thmalayalam "

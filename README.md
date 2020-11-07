@@ -9,7 +9,7 @@ pkg install git -y
 Then download the tool using git 
 git clone https://github.com/tigerhackmalayalam/termux-pkg.git
 
-Commands:-
+<h1>Commands:-</h1>
 $ apt update
 
 

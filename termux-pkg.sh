@@ -5,7 +5,7 @@ pkg install toilet -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -18,7 +18,7 @@ pkg install nano -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -29,7 +29,7 @@ pkg install perl -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -40,7 +40,7 @@ pkg install python -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -51,7 +51,7 @@ pkg install python2 -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -62,7 +62,7 @@ pkg install figlet -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -73,7 +73,7 @@ pkg install cmatrix -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -84,7 +84,7 @@ pkg install pip -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -95,7 +95,7 @@ pkg install php -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -106,7 +106,7 @@ pkg install openssh -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -117,7 +117,7 @@ pkg install curl -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -128,7 +128,7 @@ pkg install perl -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -139,7 +139,7 @@ pkg install bash -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -150,7 +150,7 @@ pkg install wget -y
 clear
 toilet -f mono12 -F border "TIGER"
 echo " "
-echo "\. ..Script By {TIGER HACK MALAYALAM}.../"
+echo "\. ..Script By {The Devil Tigers}.../"
 echo " "
 echo "It may Take several minutes"
 echo " "
@@ -171,5 +171,5 @@ toilet -f mono12 -F border "TIGER"
 echo "FOR MORE DETAILS"
 echo "SUBSCRIBE MY CHANNEL"
 echo " CLICK  https://www.youtube.com/c/thmalayalam "
-echo "OR SEARCH {TIGER HACK MALAYALAM} ON YOUTUBE"
+echo "OR SEARCH {The Devil Tigers} ON YOUTUBE"
 

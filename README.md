@@ -1,5 +1,5 @@
-This script was made by TIGER HACK MALAYALAM youtube channel
-For more search "Tiger Hack Malayalam"on YouTube
+This script was made by The devil Tigers youtube channel
+For more searche "The Devil Tigers"on YouTube
 Link :- https://www.youtube.com/c/thmalayalam
 To run this tool 
 
@@ -42,21 +42,52 @@ After typing this commands the all basic packages will be installed
 In this tool I included all the basic packages for termux
 Packages. :- 
 * python
+
+
 *python2
+
+
 *toilet
+
+
 *figlet
+
+
 *lolcat
+
+
 *nano
+
+
 *perl
+
+
 *cmatrix
+
+
 *pip
+
+
 *php
+
+
 *wget
+
+
 *openssh
+
+
+
 *curl
+
+
 *perl
+
+
 *bash
+
+
    etc.....
-By TIGER HACK MALAYALAM
+By The Devil Tigers
 
 ******for educational purposes only******

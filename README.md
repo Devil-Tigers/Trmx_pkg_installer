@@ -7,7 +7,7 @@ First you want to install git
 To install 
 pkg install git -y
 Then download the tool using git 
-git clone https://github.com/tigerhackmalayalam/termux-pkg.git
+git clone https://github.com/Devil-Tigers/termux-pkg.git
 
 <h1>Commands:-</h1>
 $ apt update
@@ -19,7 +19,7 @@ $ apt upgrade
 $ pkg install git 
 
 
-$ git clone https://github.com/tigerhackmalayalam/termux-pkg.git
+$ git clone https://github.com/Devil-Tigers/termux-pkg.git
 
 
 $ cd termux-pkg
